@@ -1,0 +1,129 @@
+body {
+	font-size:15px;
+	margin:0;
+	background:url(img/bg.jpg);
+	color:#f8ba61;
+}
+
+#ipt {
+	width:350px;
+	height:auto;
+	font-size:15px;
+	padding:5px 0 5px 13px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border:1px solid #000;
+	background:#875104;
+}
+
+#tgl {
+	width:100px;
+	height:auto;
+	padding:5px;
+	border:1px solid #000;
+	border-radius:10px 0 0 10px;
+	-moz-border-radius:10px 0 0 10px;
+	-webkit-border-radius:10px 0 0 10px;
+	font-size:15px;
+	background:#875104;
+}
+
+#bln {
+	width:120px;
+	height:auto;
+	padding:5px;
+	border:1px solid #000;
+	font-size:15px;
+	background:#875104;
+}
+
+#thn {
+	width:125px;
+	height:auto;
+	padding:5px;
+	border:1px solid #000;
+	border-radius:0 10px 10px 0;
+	-moz-border-radius:0 10px 10px 0;
+	-webkit-border-radius:0 10px 10px 0;
+	font-size:15px;
+	text-align:center;
+	background:#875104;
+}
+
+#agama {
+	width:365px;
+	height:auto;
+	font-size:15px;
+	padding:5px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border:1px solid #000;
+	background:#875104;
+}
+
+#jlh_sdr {
+	width:120px;
+	height:auto;
+	padding:5px;
+	text-align:center;
+	border:1px solid #000;
+	border-radius:10px 0 0 10px;
+	-moz-border-radius:10px 0 0 10px;
+	-webkit-border-radius:10px 0 0 10px;
+	font-size:15px;
+	background:#875104;
+}
+
+#ank_ke {
+	width:135px;
+	height:auto;
+	padding:5px;
+	border:1px solid #000;
+	border-radius:0 10px 10px 0;
+	-moz-border-radius:0 10px 10px 0;
+	-webkit-border-radius:0 10px 10px 0;
+	font-size:15px;
+	text-align:center;
+	background:#875104;
+}
+
+#wrapper {
+	width:100%;
+	height:auto;
+	float:left;
+	background:none;
+	padding:25px 0;
+}
+
+#wr-in {
+	width:1050px;
+	height:auto;
+}
+
+#left {
+	width:500px;
+	height:auto;
+	float:left;
+}
+
+#right {
+	width:500px;
+	height:auto;
+	float:right;
+}
+
+#submit {
+	width:150px;
+	height:auto;
+	background:#875104;
+	border:1px inset #000;
+	border-radius:10px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	font-size:20px;
+	padding:5px 0;
+	cursor:pointer;
+	color:#f8ba61;
+}
